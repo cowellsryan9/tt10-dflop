@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A D flip-flop is a basic digital circuit used to store one bit of data. It takes an input called D and copies its value to the output Q on the rising edge of a clock signal. Once captured, the output stays the same until the next clock edge, even if the input changes in between. This behavior makes the D flip-flop useful for storing and synchronizing data in digital systems. D flip-flops are commonly used in registers, counters, and state machines. They are essential building blocks in sequential logic, allowing complex digital circuits to operate in an organized, clock-controlled way.
 
 ## How to test
 
-Explain how to use your project
+Refer to the State Table for a D-Flop
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None
